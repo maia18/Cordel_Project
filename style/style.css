@@ -68,7 +68,7 @@ main > div.image {
     color: white;
 }
 main > div#natural {
-    background: black url('../images/background001.jpg') right center no-repeat fixed;
+    background: black url('../images/background001.jpg') center center no-repeat fixed;
     background-size: cover;
     padding: 10vh 0;
 }
@@ -77,7 +77,7 @@ main > div#natural p{
     width: 400px;
 }
 main > div#books {
-    background: black url('../images/background002.jpg') right center no-repeat fixed;
+    background: black url('../images/background002.jpg') center center no-repeat fixed;
     background-size: cover;
     padding: 10vh 0;
 }
